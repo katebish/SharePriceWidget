@@ -1,0 +1,72 @@
+body {
+    font: 100% arial, sans-serif;
+}
+
+/*Full block*/
+.title {
+    background-color: #FFD700;
+    text-indent: 7px;
+    padding-bottom: 5px;
+    display: inline-block;
+}
+
+/* section 1*/
+.toolbar {
+    padding: 10px 20px 10px 20px;
+}
+
+/* section 2*/
+.monitor {
+    background-color: #F9F7BA;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+.section_label {
+    font: 100% arial, sans-serif;
+    padding-left: 10px;
+}
+
+
+.data_display {
+    
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+}
+.display_backg{
+	background-color: white;
+}
+td, th{
+	padding-left: 15px;
+	text-align: left;
+}
+
+.positive_value{
+	color: green;
+}
+.negative_value{
+	color: red;
+}
+
+
+
+input {
+    margin: 6px;
+	border: none;
+}
+
+.log {
+    clear: both;
+    float: left;
+    padding-top: 20px;
+    margin: 20px;
+}
+
+.numeric {
+    font: 100% arial, sans-serif;
+    text-align:right;
+    float:right;
+}
+
